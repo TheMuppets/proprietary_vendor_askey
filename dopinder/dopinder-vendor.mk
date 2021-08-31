@@ -13,4 +13,5 @@ PRODUCT_COPY_FILES += \
     vendor/askey/dopinder/proprietary/vendor/lib/teetz/9a04f079-9840-4286-ab92e65be0885f95.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/9a04f079-9840-4286-ab92e65be0885f95.ta \
     vendor/askey/dopinder/proprietary/vendor/lib/teetz/e043cde0-61d0-11e5-9c260002a5d5c51b.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/e043cde0-61d0-11e5-9c260002a5d5c51b.ta \
     vendor/askey/dopinder/proprietary/vendor/lib/teetz/e92a43ab-b4c8-4450-aa12b1516259613b.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/e92a43ab-b4c8-4450-aa12b1516259613b.ta \
-    vendor/askey/dopinder/proprietary/vendor/lib/teetz/ff2a4bea-ef6d-11e6-89ccd4ae52a7b3b3.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/ff2a4bea-ef6d-11e6-89ccd4ae52a7b3b3.ta
+    vendor/askey/dopinder/proprietary/vendor/lib/teetz/ff2a4bea-ef6d-11e6-89ccd4ae52a7b3b3.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/ff2a4bea-ef6d-11e6-89ccd4ae52a7b3b3.ta \
+    vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_0001_Product_0001.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_0001_Product_0001.kl
