@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_0110_Product_0508.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_0110_Product_0508.idc \
     vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_0508_Product_0110.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_0508_Product_0110.idc \
     vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_0957_Product_0004.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_0957_Product_0004.idc \
-    vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_0957_Product_0005.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_0957_Product_0005.idc \
     vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_1d5a_Product_c082.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_1d5a_Product_c082.idc \
     vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_248a_Product_8266.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_248a_Product_8266.idc \
     vendor/askey/dopinder/proprietary/vendor/usr/idc/Vendor_7545_Product_0171.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Vendor_7545_Product_0171.idc \
@@ -29,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_005d_Product_0002.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_005d_Product_0002.kl \
     vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_0110_Product_0508.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_0110_Product_0508.kl \
     vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_0957_Product_0004.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_0957_Product_0004.kl \
-    vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_0957_Product_0005.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_0957_Product_0005.kl \
     vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_1d5a_Product_c081.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_1d5a_Product_c081.kl \
     vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_1d5a_Product_c082.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_1d5a_Product_c082.kl \
     vendor/askey/dopinder/proprietary/vendor/usr/keylayout/Vendor_248a_Product_8266.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_248a_Product_8266.kl \
