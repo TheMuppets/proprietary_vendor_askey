@@ -19,65 +19,30 @@
 # Do not edit the generic key layout to support a specific keyboard; instead, create
 # a new key layout file with the required keyboard configuration.
 #
-
-key 116   POWER
-key 113   VOLUME_MUTE
-key 362   GUIDE
-key 167   MEDIA_RECORD
-key 168   MEDIA_REWIND
-key 164   MEDIA_PLAY_PAUSE
-key 208   MEDIA_FAST_FORWARD
-key 115   VOLUME_UP
-key 402   CHANNEL_UP
+key 1     BACK
+key 2     1
+key 3     2
+key 4     3
+key 5     4
+key 6     5
+key 7     6
+key 8     7
+key 9     8
+key 10    9
+key 11    0
+key 28    DPAD_CENTER
+key 59    HOME
+key 60    TV_INPUT
+key 62    INFO
 key 103   DPAD_UP
-key 108   DPAD_DOWN
+key 104   MEDIA_PREVIOUS
 key 105   DPAD_LEFT
 key 106   DPAD_RIGHT
-key 353   DPAD_CENTER
+key 108   DPAD_DOWN
+key 109   MEDIA_NEXT
+key 113   VOLUME_MUTE
 key 114   VOLUME_DOWN
-key 403   CHANNEL_DOWN
-key 158   BACK
+key 115   VOLUME_UP
+key 116   POWER
+key 130   MENU
 key 217   ASSIST
-key 172   HOME
-
-#youtube
-key usage 0x0c000d F1
-#netflix key
-key usage 0x0c000e STEM_1
-
-#Askey BT +
-#NETFLIX
-key usage 0x0c0008 F11
-#YOUTUBE
-key usage 0x0c0007 F10
-#GOOGLE PLAY
-key usage 0x0c0009 F12
-
-#ALL APPS
-key usage 0x0c01A2 F9
-#NETFLIX
-key usage 0x0c0077 F11
-#YOUTUBE
-key usage 0x0c0078 F10
-#GOOGLE PLAY
-key usage 0x0c0079 F12
-
-#num
-key usage 0x0c0037 1
-key usage 0x0c0038 2
-key usage 0x0c0039 3
-key usage 0x0c003a 4
-key usage 0x0c003b 5
-key usage 0x0c003c 6
-key usage 0x0c003d 7
-key usage 0x0c003e 8
-key usage 0x0c003f 9
-key usage 0x0c0007 SETTINGS
-key usage 0x0c000f 0
-key usage 0x0c0008 TV_INPUT
-key usage 0x0c0009 PROG_RED
-key usage 0x0c000a PROG_GREEN
-key usage 0x0c000b PROG_YELLOW
-key usage 0x0c000c PROG_BLUE
-
-
