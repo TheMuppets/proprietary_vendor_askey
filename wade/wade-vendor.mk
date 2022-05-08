@@ -6,6 +6,7 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/askey/wade
 
 PRODUCT_COPY_FILES += \
+    vendor/askey/wade/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
     vendor/askey/wade/proprietary/vendor/lib/teetz/00d1ca22-1764-4e35-90aa5b8c12630764.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/00d1ca22-1764-4e35-90aa5b8c12630764.ta \
     vendor/askey/wade/proprietary/vendor/lib/teetz/2c1a33c0-44cc-11e5-bc3b0002a5d5c51b.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/2c1a33c0-44cc-11e5-bc3b0002a5d5c51b.ta \
     vendor/askey/wade/proprietary/vendor/lib/teetz/526fc4fc-7ee6-4a12-96e3-83da9565bce8.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/526fc4fc-7ee6-4a12-96e3-83da9565bce8.ta \
